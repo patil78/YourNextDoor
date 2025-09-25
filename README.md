@@ -1,7 +1,7 @@
 # YourNextDoor
-# 🏡 Airbnb Clone (MERN Stack)
+# 🏡 (MERN Stack)
 
-A full-stack Airbnb clone built using **MongoDB**, **Express**, **React**, and **Node.js**, with responsive design via **Bootstrap**.
+A full-stack built using **MongoDB**, **Express**, **React**, and **Node.js**, with responsive design via **Bootstrap**.
 
 ### 🔧 Features
 - Create, edit, delete property listings  
